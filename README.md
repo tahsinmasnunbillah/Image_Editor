@@ -53,7 +53,7 @@ Project_Folder/
 ### 1. macOS
 1. **Install Homebrew** (if not already installed):
    ```bash
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    ```
 2. **Install Required Build Tools & Packages**:
    ```bash
